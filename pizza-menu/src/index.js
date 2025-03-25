@@ -50,7 +50,6 @@ const pizzaData = [
 function App() {
   return (
     <div className="container">
-      <h1>App component</h1>
       <Header />
       <Menu />
       <Footer />
